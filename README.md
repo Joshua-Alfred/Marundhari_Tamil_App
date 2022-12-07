@@ -1,4 +1,4 @@
-# namo
+# Marundhari - Medsay Tamil App
 
 A new Flutter project.
 
